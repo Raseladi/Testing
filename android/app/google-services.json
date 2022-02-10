@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "397319312858",
+    "project_id": "raselshop-403dd",
+    "storage_bucket": "raselshop-403dd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:397319312858:android:78e65d0ea81f05bbcd5ce3",
+        "android_client_info": {
+          "package_name": "com.example.raselshop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "397319312858-ghmj18kuipndm9au4c743d2snfo5da9h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIzlb0xC2tZYm2fNkz6SOT_fddg1L9BS8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "397319312858-ghmj18kuipndm9au4c743d2snfo5da9h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
